@@ -127,9 +127,6 @@ function resolverExercicio5LogicaProgramacao(numero1, numero2) {
         console.log(`${numero2}  não é divisível por ${numero1}`)
     }
 
-
-
-
     console.log(`A diferença entre os números é de ${maior - menor}`)
 
 }
